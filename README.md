@@ -260,16 +260,6 @@ This dashboard helps organizations to:
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```
-images/dashboard.png
-```
-
----
-
 # ⭐ Future Improvements
 
 - Connect to SQL Database
