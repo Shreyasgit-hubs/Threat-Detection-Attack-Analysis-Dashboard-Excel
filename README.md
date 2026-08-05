@@ -2,7 +2,7 @@
 
 > An interactive Microsoft Excel dashboard designed to monitor cyber threats, analyze attack patterns, detect anomalies, and visualize system performance using dynamic KPIs and charts.
 
-![Dashboard Preview](images/dashboard)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
